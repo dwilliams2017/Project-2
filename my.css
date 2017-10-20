@@ -72,6 +72,10 @@ nav ul li a:active{
   text-decoration-color: #0b62c0;
 }
 
+.section_border{
+  border: solid blue;
+}
+
 .footer_p{
   margin-left: 1%;
   color: #bbdafa;
@@ -92,7 +96,7 @@ nav ul li a:active{
   margin-left: 1%;
 }
 
-.sec{
+.sec {
   margin-left: 1%;
   margin-right: 1%;
 }
