@@ -34,7 +34,7 @@ p{
 }
 
 nav ul li a:hover{
-  color: #0ca3fa;
+  color: #73c5fe;/*#81c8f8; #0ca3fa;*/
 }
 
 nav ul li a:active{
@@ -43,6 +43,8 @@ nav ul li a:active{
 
 #r_h{
   text-align: center;
+  padding-bottom: 2em;
+  border-bottom: 3px solid #e6e6e6;
 }
 
 #hr2{
@@ -106,7 +108,7 @@ nav ul li a:active{
   bottom: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: #495065e6;
+  background-color: #7b7f8e;
   width: 100%;
 }
 
@@ -116,14 +118,14 @@ nav ul li a:active{
   bottom: 0;
   padding-top: 2em;
   padding-bottom: 2em;
-  background-color: #495065e6;
+  background-color: #7b7f8e;
   width: 100%;
 }
 
 .filler_head{
   padding-top: 0.8em;
   padding-bottom: 1.6em;
-  background-color: #495065e6;
+  background-color: #7b7f8e;
 }
 .a{
   color: #bbdafa; 
@@ -136,6 +138,7 @@ nav ul li a:active{
   list-style-type: none;
   float: left;
   margin:0.3125em;
+  margin-right: 1.5em;
 }
 
 .clear{
