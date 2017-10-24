@@ -71,7 +71,7 @@ nav ul li a:active{
 
 .h2_decoration{
   text-decoration: underline;
-  text-decoration-color: #0b62c0;
+  text-decoration-color: #b2c2ca;/*#e5f0f6 ;*/
 }
 
 .section_border{
@@ -127,6 +127,7 @@ nav ul li a:active{
   padding-bottom: 1.6em;
   background-color: #7b7f8e;
 }
+
 .a{
   color: #bbdafa; 
   text-decoration: none;
