@@ -41,6 +41,12 @@ nav ul li a:active{
   color: #bbdafa;
 }
 
+nav ul{
+  width: 240px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 #r_h{
   text-align: center;
   padding-bottom: 2em;
