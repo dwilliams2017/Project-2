@@ -1,14 +1,14 @@
 body{
   background-color: #fcfcfc;
 }
-
+/*
 th{
   padding-bottom: 1em;
 }
 
 td{
   text-align: center;
-}
+}*/
 
 h2{
   font-family: 'Hind Vadodara', sans-serif;
@@ -76,6 +76,22 @@ nav ul{
   color: #f3320f;/*#c086f6;*/
 }
 
+#row2,#row3,#row4{
+  clear: both;
+}
+
+
+
+#edu{
+  clear:both;
+  padding-top:1.1em;
+}
+
+#row1,#row1_2,#row1_3{
+  font-weight: bold;
+  margin-bottom:0.5em;
+}
+
 .h1{
   clear: both;
   margin-top: 0.9375em;
@@ -131,6 +147,12 @@ nav ul{
 
 ul li p{
   color: black;
+}
+
+.tabp{
+  float: left;
+  width: 12%;
+  text-align:center;
 }
 
 .sec {
