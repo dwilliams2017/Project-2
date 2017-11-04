@@ -124,6 +124,9 @@ nav ul{
 .bullet{
   list-style-type: disc;
   color: #2a77fe;
+  position:relative;
+  left:2%;
+  padding-left:0px !important;
 }
 
 ul li p{
