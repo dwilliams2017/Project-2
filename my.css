@@ -121,6 +121,15 @@ nav ul{
   margin-right: auto;
 }
 
+.bullet{
+  list-style-type: disc;
+  color: #2a77fe;
+}
+
+ul li p{
+  color: black;
+}
+
 .sec {
   margin-left: 1%;
   margin-right: 1%;
