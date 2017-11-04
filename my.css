@@ -146,8 +146,10 @@ nav ul{
 .lis{
   list-style-type: none;
   float: left;
-  margin:0.3125em;
-  margin-right: 1.5em;
+  margin-top:0.3125em;
+  width: 102.4px;
+  text-align: center;
+  width:80px;
 }
 
 .clear{
